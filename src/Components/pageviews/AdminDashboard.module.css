@@ -1,0 +1,40 @@
+/* New tab styling */
+.tab {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #f1f1f1;
+  border: none;
+  outline: none;
+  transition: background-color 0.3s ease;
+}
+
+.tab.active {
+  background-color: #1c313a;
+  color: #fff;
+}
+
+.tab:hover {
+  background-color: #ddd;
+}
+
+.tab-content {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.pickup-list ul {
+  list-style: none;
+}
+
+.pickup-list li {
+  padding: 15px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.pickup-list li img {
+  max-width: 100px;
+  margin-right: 20px;
+}
