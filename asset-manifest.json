@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Main_Final_Plasticart/static/css/main.44011dd5.css",
+    "main.js": "/Main_Final_Plasticart/static/js/main.4580a1e8.js",
+    "static/js/453.acde22cb.chunk.js": "/Main_Final_Plasticart/static/js/453.acde22cb.chunk.js",
+    "static/media/background.png": "/Main_Final_Plasticart/static/media/background.3760b3159e7aede175b5.png",
+    "static/media/fog_7.png": "/Main_Final_Plasticart/static/media/fog_7.3c0849b92d8b3206ed4e.png",
+    "static/media/fog_1.png": "/Main_Final_Plasticart/static/media/fog_1.7f6ae699b32d9c15b5d8.png",
+    "static/media/fog_6.png": "/Main_Final_Plasticart/static/media/fog_6.75975f89663e326c831f.png",
+    "static/media/fog_2.png": "/Main_Final_Plasticart/static/media/fog_2.fa844aaea6be811b0868.png",
+    "static/media/fog_3.png": "/Main_Final_Plasticart/static/media/fog_3.f0c3fd1a2c5daae4aad0.png",
+    "static/media/sun_rays.png": "/Main_Final_Plasticart/static/media/sun_rays.c5a77d31f5215da0bbf2.png",
+    "static/media/black_shadow.png": "/Main_Final_Plasticart/static/media/black_shadow.1835237063517f55f172.png",
+    "static/media/fog_4.png": "/Main_Final_Plasticart/static/media/fog_4.4de1dc300c92c2b63f3b.png",
+    "static/media/fog_5.png": "/Main_Final_Plasticart/static/media/fog_5.dfc825e4073d3c03fd39.png",
+    "static/media/camera-snap-black.svg": "/Main_Final_Plasticart/static/media/camera-snap-black.caa5dbdc9b76fa1473a4.svg",
+    "index.html": "/Main_Final_Plasticart/index.html",
+    "main.44011dd5.css.map": "/Main_Final_Plasticart/static/css/main.44011dd5.css.map",
+    "main.4580a1e8.js.map": "/Main_Final_Plasticart/static/js/main.4580a1e8.js.map",
+    "453.acde22cb.chunk.js.map": "/Main_Final_Plasticart/static/js/453.acde22cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44011dd5.css",
+    "static/js/main.4580a1e8.js"
+  ]
+}
